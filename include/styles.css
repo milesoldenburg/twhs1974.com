@@ -1,0 +1,126 @@
+/* This section is for the header *****************************************/
+
+#headerTop {
+	background: url(../images/headerTop.png) top left no-repeat;
+	height: 18px;
+	margin: 0px auto;
+	width: 1000px;
+}
+
+#header {
+	background: url(../images/headerRepeat.png) top left repeat-x;
+	height: 137px;
+}
+
+.headerTextContainer {
+	margin: 0px auto;
+	padding: 25px 0px 0px 250px;
+	width: 1000px;
+}
+
+.headerText {
+	background: url(../images/headerText.png) top left no-repeat;
+	height: 86px;
+}
+
+/* This section is for the navigation *************************************/
+
+#navigation {
+	background: url(../images/navBackground.png) top left no-repeat;
+	font-size: 12px;
+	height: 30px;
+	margin: 0px auto;
+	width: 800px;
+}
+
+#navigation a {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+#navigation a:hover {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+
+#navigation ul {
+	list-style-type: none;
+	margin: 18px 0px 0px 0px;
+	padding: 0px;
+}
+
+#navigationChannels li {
+	margin-top: -18px;
+}
+
+#navigationChannels li a {
+	background: url(../images/navBorder.png) top right no-repeat;
+	display: block;
+	float: left;
+	height: 30px;
+	line-height: 30px;
+	margin: 0px;
+	padding: 0px 14px 0px 14px;
+}
+
+/* This section is for the body *******************************************/
+
+body {
+	background-color: #FFFFFF;
+	font-family: 'Trebuchet MS';
+	font-size: 12px;
+	margin: 0px;
+	padding: 0px;
+}
+
+#backgroundContainer {
+	margin: 0px auto;
+	width: 1000px;
+}
+
+#bodyContainer {
+	background: url(../images/bodyRepeat.png) top left repeat-y;
+	min-height: 500px;
+}
+
+#bodyContent {
+	margin: 0px auto;
+	padding: 20px 0px 0px 20px;
+	width: 760px;
+}
+
+#bodyContent h1 {
+	font-size: 200%;
+	margin: 0px;
+	padding: 0px 0px 5px 0px;
+}
+
+#bodyContent a {
+	color: #990000;
+	text-decoration: none;
+}
+
+#bodyContent a:hover {
+	color: #990000;
+	border-bottom: 1px #990000 dotted;
+}
+
+#bodyBottom {
+	background: url(../images/bodyBottom.png) top left no-repeat;
+	height: 13px;
+}
+
+/* This section is for the footer *****************************************/
+.developLink {
+	color: #CCCCCC;
+	font-size: 80%;
+	text-align: center;
+}
+
+.developLink a {
+	color: #CCCCCC;
+}
+
+.developLink a:hover {
+	color: #999999;
+}
