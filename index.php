@@ -17,13 +17,15 @@ The Thomas Worthington High School Class of 1974 will hold their 45th Reunion du
 		<br />
         614-774-1440 | <a href="http://www.yorkgolfclubonline.com/" title="York Golf Club.">York Golf Club</a> | <a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=7459+N+High+Street,+Columbus,+OH+43235&sll=40.116201,-83.0163&sspn=0.006342,0.013947&ie=UTF8&ll=40.116825,-83.0163&spn=0.012684,0.027895&z=16&iwloc=addr" title="Map and Directions to York Golf Club.">Map &amp; Directions</a>
 		<br /><br />
-		Tee times TBD and green frees TBD, pay at course. Contact Jeff Barber to register at <a href="mailto:jbarber@pensionplansassociates.com" title="Email Jeff Barber.">jbarber@pensionplansassociates.com</a> or (614) 774-1440.
+		Tee times TBD and green frees TBD, pay at course.
+        <br/>
+        Contact Jeff Barber to register at <a href="mailto:jbarber@pensionplansassociates.com" title="Email Jeff Barber.">jbarber@pensionplansassociates.com</a> or 614-774-1440.
 		<br /><br />
 		
-		<h3 style="margin: 0px; padding: 0px;">Get Together at Winking Lizard Tavern  7:00 pm – ???</h3>
+		<h3 style="margin: 0px; padding: 0px;">Get Together at Winking Lizard Tavern (Polaris)  7:00 pm – ???</h3>
         496 Polaris Parkway, Westerville, OH 43082
 		<br />
-        614-423-3616 | <a href="http://www.winkinglizard.com" title="Winking Lizard Tavern.">Winking Lizard Tavern</a> | <a href="https://goo.gl/maps/pnAGMY3Zkf52" title="Map and Directions to Winking Lizard Tavern.">Map &amp; Directions</a>
+        614-423-3616 | <a href="http://www.winkinglizard.com" title="Winking Lizard Tavern.">Winking Lizard Tavern (Polaris)</a> | <a href="https://goo.gl/maps/pnAGMY3Zkf52" title="Map and Directions to Winking Lizard Tavern.">Map &amp; Directions</a>
 		<br /><br />
 		
 		<h2 style="margin: 0px; padding: 0px;">Saturday, August 10th</h2>
@@ -51,7 +53,7 @@ The Thomas Worthington High School Class of 1974 will hold their 45th Reunion du
 		<br /><br />
 		Drinks will be provided.  Please bring a breakfast food or dish to share.
 		<br/>
-        RSVP to Jeff Barber at <a href="mailto:jbarber@pensionplansassociates.com" title="Email Jeff Barber.">jbarber@pensionplansassociates.com</a> or (614) 774-1440.
+        RSVP to Jeff Barber at <a href="mailto:jbarber@pensionplansassociates.com" title="Email Jeff Barber.">jbarber@pensionplansassociates.com</a> or 614-774-1440.
 	</div>
 </div>
 <br />
@@ -61,9 +63,9 @@ The Thomas Worthington High School Class of 1974 will hold their 45th Reunion du
 		CONTACT
 	</div>
 	<div style="padding: 10px;">
-		For Reunion questions, contact Valerie DeMuth Altfater at <a href="mailto:altfaterobx@sbcglobal.net" title="Email Valerie DeMuth Altfater.">altfaterobx@sbcglobal.net</a> or by cell phone at (614) 282-2502.
+		For Reunion questions, contact Valerie DeMuth Altfater at <a href="mailto:altfaterobx@sbcglobal.net" title="Email Valerie DeMuth Altfater.">altfaterobx@sbcglobal.net</a> or by cell phone at 614-282-2502.
 		<br /><br />
-		Please send mailing and email address updates to Aurie Whittaker at <a href="mailto:awhittaker03@columbus.rr.com" title="Email Aura Lee Whittaker.">awhittaker03@columbus.rr.com</a> or by home phone at (614) 433-0862.
+		Please send mailing and email address updates to Aurie Whittaker at <a href="mailto:awhittaker03@columbus.rr.com" title="Email Aura Lee Whittaker.">awhittaker03@columbus.rr.com</a> or by home phone at 614-433-0862.
 	</div>
 </div>
 <br/>
