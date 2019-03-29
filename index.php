@@ -41,7 +41,7 @@ The Thomas Worthington High School Class of 1974 will hold their 45th Reunion du
 		<strong>All classmates are encouraged to complete and return a registration form.</strong> Even if you cannot attend the Reunion Party, we would like to hear from you in order to update our records.
 		<br /><br />
 		
-		<a href="registration/" title="Register.">Click Here to Register!</a> <strong>DEADLINE TO REGISTER IS JULY 10!</strong>
+		<a href="registration/" title="Register.">Click Here to Register!</a> <strong>DEADLINE TO REGISTER IS JULY 1st!</strong>
 		<br /><br />
 		
 		<h2 style="margin: 0px; padding: 0px;">Sunday, August 11th</h2>
