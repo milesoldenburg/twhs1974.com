@@ -29,6 +29,9 @@ The Thomas Worthington High School Class of 1974 will hold their 45th Reunion du
 		<br /><br />
 		
 		<h2 style="margin: 0px; padding: 0px;">Saturday, August 10th</h2>
+
+        <h3 style="margin: 0px; padding: 0px;">Paint the Rock 10:30 am and School Tour 11:00am at TWHS</h3>
+        <br /><br />
 		
 		<h3 style="margin: 0px; padding: 0px;">Reunion Party at McConnell Arts Center 7:00 pm - 12:00 am</h3>
 		777 Evening Street, Worthington, OH 43085
