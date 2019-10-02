@@ -65,6 +65,8 @@ Thomas Randall Neuberger
 <br/>
 David B. O'Herron
 <br/>
+William Daniel Pheanis Jr.
+<br/>
 Edward D. Reid
 <br/>
 Michael G. Reiser
@@ -86,6 +88,8 @@ Cathy L. Swain Kelly
 Michelle Diane Thompson Parker
 <br/>
 Robert D. Troll
+<br/>
+Steven D. Vilardo
 <br/>
 Mark Bradley Weidman
 <br/>
