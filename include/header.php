@@ -32,9 +32,6 @@
 			<li>
 				<a href="/registration/" title="Registration.">Registration</a>
 			</li>
-			<li>
-				<a href="/pictures/" title="Pictures.">Pictures</a>
-			</li>
 		</ul>
 	</div>
 </div>
