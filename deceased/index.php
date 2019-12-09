@@ -49,6 +49,8 @@ Kent Russell Klawon
 <br/>
 Carolyn Kocher
 <br/>
+Terrell S. La Tour
+<br/>
 Michael Robert Lane
 <br/>
 Michael Scott Lucas
@@ -96,9 +98,6 @@ Mark Bradley Weidman
 Robin Whittaker
 <br/>
 Daniel J. Zerby
-<br/>
-    
-
-<br />
+<br/><br />
 
 <?php include("../include/footer.php"); ?>
