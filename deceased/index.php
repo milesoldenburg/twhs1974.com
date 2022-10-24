@@ -7,6 +7,8 @@ David A. Alban
 <br/>
 Todd James Andrews
 <br/>
+Douglas R. Armitage
+<br/>
 Kathryn L. Borg Emery
 <br/>
 Michelle A. Bumster McCrady
@@ -35,6 +37,8 @@ Patricia A. Fisher Canzoneri
 <br/>
 Susie A. Fugate
 <br/>
+Perry J. Gaal
+<br/>
 David J. Grupe
 <br/>
 William E. Hall
@@ -47,6 +51,8 @@ Kimberly L. Jamieson
 <br/>
 Kent Russell Klawon
 <br/>
+John Samuel Klein
+<br/>
 Carolyn Kocher
 <br/>
 Terrell S. La Tour
@@ -56,6 +62,8 @@ Michael Robert Lane
 Michael Scott Lucas
 <br/>
 David Kenneth Lyndes
+<br/>
+John T. Madry, Jr
 <br/>
 Mary Shannon Maloney
 <br/>
@@ -96,6 +104,8 @@ Steven D. Vilardo
 Mark Bradley Weidman
 <br/>
 Robin Whittaker
+<br/>
+Jack A. Williams, Jr.
 <br/>
 Daniel J. Zerby
 <br/><br />

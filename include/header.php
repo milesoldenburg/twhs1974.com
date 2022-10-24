@@ -29,9 +29,9 @@
 			<li>
 				<a href="/deceased/" title="Deceased Classmates.">Deceased Classmates</a>
 			</li>
-			<li>
-				<a href="/registration/" title="Registration.">Registration</a>
-			</li>
+<!--			<li>-->
+<!--				<a href="/registration/" title="Registration.">Registration</a>-->
+<!--			</li>-->
 		</ul>
 	</div>
 </div>

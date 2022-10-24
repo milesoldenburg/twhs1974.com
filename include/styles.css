@@ -27,7 +27,7 @@
 
 #navigation {
 	background: url(../images/navBackground.png) top left no-repeat;
-	font-size: 12px;
+	font-size: 14px;
 	height: 30px;
 	margin: 0px auto;
 	width: 800px;
@@ -68,7 +68,7 @@
 body {
 	background-color: #FFFFFF;
 	font-family: 'Trebuchet MS';
-	font-size: 12px;
+	font-size: 14px;
 	margin: 0px;
 	padding: 0px;
 }
