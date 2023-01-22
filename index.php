@@ -1,18 +1,19 @@
 <?php include("include/header.php"); ?>
 
-<h1>TWHS Class of 1974 50<sup>th</sup> Reunion</h1>
+<h1>TWHS Class of 1974 50<sup>th</sup> Reunion June 28 - 30, 2024</h1>
 
-The Thomas Worthington High School Class of 1974 will hold their 50th Reunion during the weekend of June 28 - 30, 2024!
-There will be several events planned for the weekend, based on the results of a survey that will be sent to all class members in the coming months.
+The Thomas Worthington High School Class of 1974 will hold their 50th Reunion during the weekend of <strong>June 28 - 30, 2024</strong>!
+There will be several activities planned for that weekend, which will take place in or near Worthington.
 <br /><br />
 
-All Reunion activities will take place in and near Worthington.
+If you would like to provide input regarding the Reunion Event and weekend activities, please complete the survey at <a href="https://forms.gle/yDsSv75bgNPRMA669">https://forms.gle/yDsSv75bgNPRMA669</a>.
+We want to have as many classmates attend as possible.
 <br /><br />
 
-The Reunion event is scheduled for Saturday, June 29, 2024 and will be held at the Jessing Center at the Pontifical College Josephinum.
+The Reunion Event is scheduled for Saturday, June 29, 2024 and will be held at the Jessing Center at the Pontifical College Josephinum, 7635 N. High Street, Columbus, Ohio 43235.
 <br /><br />
 
-Our class website has been updated with the Reunion date and will be expanded as other events are scheduled for the weekend.
+Our class website will be updated as other activities are scheduled for that weekend.
 Please review our list of <a href="/missing/" title="Missing Classmates.">missing</a> and <a href="/deceased/" title="Deceased Classmates.">deceased</a> classmates.
 If you have address information for anyone on the missing page or updates to the deceased page, please send those along to us!
 <br /><br />
@@ -21,8 +22,9 @@ For mailing address and deceased updates, please contact Aurie Whittaker at <a h
 Please send email address updates to:  Valerie DeMuth Altfater at <a href="mailto:valtfaterobx@gmail.com" title="Email Valerie DeMuth Altfater.">valtfaterobx@gmail.com</a>, or by cell phone at 614-282-2502.
 <br /><br />
 
-Volunteers are still needed to help with the reunion.  Also, financial donations are welcome
-for expenses such as postage, printing, decorations, etc.  Please contact Valerie DeMuth Altfater at <a href="mailto:valtfaterobx@gmail.com" title="Email Valerie DeMuth Altfater.">valtfaterobx@gmail.com</a> or by cell phone at 614-282-2502 to discuss.
+Volunteers are still needed to help with the reunion.
+We would welcome financial donations or sponsorships to offset meal costs, band costs, open bar costs, and other reunion expenses.
+Please contact Valerie DeMuth Altfater at <a href="mailto:valtfaterobx@gmail.com" title="Email Valerie DeMuth Altfater.">valtfaterobx@gmail.com</a> or by cell phone at 614-282-2502 to discuss.
 
 
 <!--<div style="border: 1px #999999 solid;">-->

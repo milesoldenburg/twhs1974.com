@@ -19,8 +19,6 @@ Rebecca C. Fort
 <br/>
 Rebeccah L. Gray
 <br/>
-Teala Henretta
-<br/>
 John M. Howell
 <br/>
 Theresa D. Jackson
