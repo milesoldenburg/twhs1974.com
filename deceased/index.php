@@ -9,6 +9,8 @@ Todd James Andrews
 <br/>
 Douglas R. Armitage
 <br/>
+Lawrence Thomas Castoe III
+<br/>
 Kathryn L. Borg Emery
 <br/>
 Michelle A. Bumster McCrady
@@ -57,9 +59,9 @@ John Samuel Klein
 <br/>
 Carolyn Kocher
 <br/>
-Terrell S. La Tour
-<br/>
 Michael Robert Lane
+<br/>
+Terrell S. LaTour
 <br/>
 Mark S. Leppert
 <br/>
@@ -110,6 +112,8 @@ Steven D. Vilardo
 Mark Bradley Weidman
 <br/>
 Robin Whittaker
+<br/>
+Teresa S. Wilcox Easterday
 <br/>
 Jack A. Williams, Jr.
 <br/>

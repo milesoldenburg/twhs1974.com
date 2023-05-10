@@ -23,7 +23,7 @@ Please send email address updates to:  Valerie DeMuth Altfater at <a href="mailt
 <br /><br />
 
 Volunteers are still needed to help with the reunion.
-We would welcome financial donations or sponsorships to offset meal costs, band costs, open bar costs, and other reunion expenses.
+We would welcome financial donations or sponsorships to offset meal costs, band costs, bar costs, and other reunion expenses.
 Please contact Valerie DeMuth Altfater at <a href="mailto:valtfaterobx@gmail.com" title="Email Valerie DeMuth Altfater.">valtfaterobx@gmail.com</a> or by cell phone at 614-282-2502 to discuss.
 
 

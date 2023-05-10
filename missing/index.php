@@ -5,13 +5,11 @@
 
 William C. Allen
 <br/>
-Ronald Scott Bell
-<br/>
 Lynda Booth
 <br/>
-Lawrence Thomas Castoe III
-<br/>
 Terri K. Cline
+<br/>
+Paul Philip Drukker
 <br/>
 Lynn Elms
 <br/>
@@ -19,27 +17,17 @@ Rebecca C. Fort
 <br/>
 Rebeccah L. Gray
 <br/>
-John M. Howell
-<br/>
-Theresa D. Jackson
-<br/>
-Roni J. Jarrett Scammell
-<br/>
 Jukka Jarvi-Laturi
 <br/>
-Jean Collette Kline
-<br/>
 Kim L. Mark Paulson
+<br/>
+Mary Kathleen Mathews Roush
 <br/>
 M. E. Oliver
 <br/>
 Christina A. Peitz
 <br/>
-Linda E. Peters
-<br/>
 George F. Powers
-<br/>
-Donald K. Riggins
 <br/>
 Beth A. Rohr
 <br/>
